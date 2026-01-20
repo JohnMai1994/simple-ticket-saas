@@ -7,3 +7,4 @@ Doing:
 - Basic ticket flow
 - Team-based access
 - Simple role system
+- Tell me fun story
