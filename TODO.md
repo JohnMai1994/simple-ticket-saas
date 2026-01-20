@@ -1,0 +1,6 @@
+- Auth (JWT)
+- Team CRUD
+- Ticket CRUD
+- Status flow
+- RBAC
+- Angular basic pages
